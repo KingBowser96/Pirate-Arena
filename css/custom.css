@@ -1,0 +1,57 @@
+.ad {
+    background-color: green;
+    max-width: 150px;
+    text-align: center;
+}
+
+.headerImg{
+    height: 300px;
+    width: 1200px;
+}
+
+.news{
+    height: 600px;
+}
+
+.areabotoes{
+    border: 1px solid;
+    background-color: green;
+    height: 300px;
+}
+
+.arealogin{
+    background-color: blue;
+    height:500px;
+}
+
+.divImg {
+
+}
+
+.fullpage{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+.removeEspaco{
+    padding: 0;
+}
+
+.botoes {
+    margin-left: auto;
+    margin-right: auto;
+    height:40px;
+    width: 300px;
+}
+
+.camposLogin{
+
+}
+
+.textos{
+    padding-left: 200px;
+    padding-top: 50px;
+}
