@@ -7,9 +7,11 @@
 .headerImg{
     height: 300px;
     width: 1200px;
+    border: 1px solid;
 }
 
 .news{
+    border: 1px solid;
     height: 600px;
 }
 
@@ -45,6 +47,7 @@
     margin-right: auto;
     height:40px;
     width: 300px;
+    border-radius: 10px;
 }
 
 .camposLogin{
@@ -52,6 +55,18 @@
 }
 
 .textos{
-    padding-left: 200px;
-    padding-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+.divIn{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divLog{
+    padding: 10px;
+    margin-right: auto;
+
 }
