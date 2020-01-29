@@ -1,2 +1,2 @@
 # Pirate-Arena
-Tipo Naruto-Arena, só que de One Piece kkkj
+Tipo Naruto-Arena, só que de One Piece
